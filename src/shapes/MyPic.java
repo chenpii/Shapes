@@ -4,7 +4,7 @@ public class MyPic {
 	public static void main(String[] args) 
 	{
 		Picture pic = new Picture(420,300);
-		Circle c1 = new Circle(320,40,80);
+		Circle c1 = new Circle(320,40,30);
 		Rectangle r1 = new Rectangle(100, 100, 100, 100);
 		Triangle t1 = new Triangle(100, 100, 200, 100, 150, 50);
 		Line l1 = new Line(0,205,400,205);
